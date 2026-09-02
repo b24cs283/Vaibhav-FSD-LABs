@@ -1,0 +1,2 @@
+Hello, this is a Node.js Streams experiment.
+Streams are used to read and write data efficiently.
